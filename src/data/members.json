@@ -1,23 +1,19 @@
 [
     {
-        "title": "Max Böck",
-        "url": "https://mxb.dev/",
-        "feed": "https://mxb.dev/feed.xml"
+        "title": "Basidia Network",
+        "url": "https://basidia.network/",
     },
     {
-        "title": "Manuel Matuzovic",
-        "url": "https://www.matuzo.at/",
-        "feed": "https://www.matuzo.at/feed.xml"
+        "title": "Test 01",
+        "url": "https://basidia.network/",
     },
     {
-        "title": "Charlie Owen",
-        "url": "https://www.sonniesedge.net/",
-        "feed": null
+        "title": "Test 02",
+        "url": "https://basidia.network/",
     },
     {
-        "title": "Björn Ganslandt",
-        "url": "https://ganslandt.xyz/",
-        "feed": null
+        "title": "Test 03",
+        "url": "https://basidia.network/",
     },
     {
         "title": "Jan Hrubý",
@@ -25,23 +21,19 @@
         "feed": null
     },
     {
-        "title": "Zach Leatherman",
-        "url": "https://www.zachleat.com/",
-        "feed": "https://www.zachleat.com/web/feed/"
+        "title": "Test 04",
+        "url": "https://basidia.network/",
     },
     {
-        "title": "Steve Gardner",
-        "url": "https://ste.vg",
-        "feed": null
+        "title": "Test 05",
+        "url": "https://basidia.network/",
     },
     {
-        "title": "Alan Levine",
-        "url": "https://cogdogblog.com/",
-        "feed": "https://cogdogblog.com/feed"
+        "title": "Test 06",
+        "url": "https://basidia.network/",
     },
     {
-        "title": "Marius Ghita",
-        "url": "https://mhitza.github.io",
-        "feed": "https://mhitza.github.io/atom.xml"
+        "title": "Test 07",
+        "url": "https://basidia.network/",
     }
 ]
